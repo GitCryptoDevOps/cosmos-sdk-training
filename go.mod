@@ -12,7 +12,7 @@ require (
 	github.com/confio/ics23/go v0.6.6
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/iavl v0.16.0
-	github.com/cosmos/ledger-cosmos-go v0.11.1
+	github.com/cosmos/ledger-cosmos-go v0.12.1
 	github.com/dgraph-io/ristretto v0.0.3 // indirect
 	github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13 // indirect
 	github.com/enigmampc/btcutil v1.0.3-0.20200723161021-e2fb6adb2a25
@@ -44,17 +44,16 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/tendermint/btcd v0.1.1
 	github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15
 	github.com/tendermint/go-amino v0.16.0
 	github.com/tendermint/tendermint v0.34.11
 	github.com/tendermint/tm-db v0.6.4
-	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	google.golang.org/genproto v0.0.0-20210114201628-6edceaf6022f
-	google.golang.org/grpc v1.37.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/grpc v1.50.1
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/ini.v1 v1.61.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
