@@ -3,7 +3,7 @@ go 1.16
 module github.com/cosmos/cosmos-sdk
 
 require (
-	github.com/99designs/keyring v1.1.6
+	github.com/99designs/keyring v1.2.2
 	github.com/DataDog/zstd v1.4.5 // indirect
 	github.com/armon/go-metrics v0.3.8
 	github.com/bgentry/speakeasy v0.1.0
@@ -51,7 +51,6 @@ require (
 	github.com/tendermint/tendermint v0.34.11
 	github.com/tendermint/tm-db v0.6.4
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
 	google.golang.org/genproto v0.0.0-20210114201628-6edceaf6022f
 	google.golang.org/grpc v1.37.0
 	google.golang.org/protobuf v1.26.0
